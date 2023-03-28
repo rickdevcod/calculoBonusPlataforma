@@ -1,6 +1,6 @@
 
 
-
+# Há duas telas de abertura no inicio do programa, edite e escolha da forma que desejar # 
 
 print("**********************************************")
 print("Bem vindo ao programa de bonus para assinatura")
@@ -12,7 +12,7 @@ while continuar:
     print("Bem-vindo ao programa de bônus para assinatura " + tipo_assinatura + "!")
 
 
-    faturamento_anual_str = input("Digite o faturamento anual com pontos:")
+    faturamento_anual_str = input("Digite o faturamento anual:")
     faturamento_anual = float(faturamento_anual_str.replace(".",""))
     print(faturamento_anual)
 
