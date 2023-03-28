@@ -1,6 +1,6 @@
 
 
-# Há duas telas de abertura no inicio do programa, edite e escolha da forma que desejar # 
+# Há duas telas de abertura no inicio do programa, edite e escolha da forma que desejar rickdevcod exercicios # 
 
 print("**********************************************")
 print("Bem vindo ao programa de bonus para assinatura")
