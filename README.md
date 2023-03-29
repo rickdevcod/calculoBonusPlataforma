@@ -1,1 +1,1 @@
-#calculo simples para plataforma retirar anualmente a porcentagem de lucro por serviço.
+Calculo simples para plataforma retirar anualmente a porcentagem de lucro por serviço.
